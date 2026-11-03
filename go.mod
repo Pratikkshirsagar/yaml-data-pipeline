@@ -1,3 +1,3 @@
-module github.com/level-up-go/yaml-data-pipeline
+module github.com/Pratikkshirsagar/yaml-data-pipeline
 
 go 1.27.3
